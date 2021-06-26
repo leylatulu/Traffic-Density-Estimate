@@ -8,3 +8,10 @@ Data Set Link: https://www.kaggle.com/rohith203/traffic-volume-dataset
 
 ## **Result**
 ![TrafficVolumeEstimate](https://user-images.githubusercontent.com/53316818/122985527-f8f88300-d3a6-11eb-915e-fc57151e5b77.png)
+
+
+## Authors
+* **[Leyla Tülü](https://github.com/leylatulu)**
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
